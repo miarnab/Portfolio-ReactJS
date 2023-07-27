@@ -12,7 +12,7 @@ export default function About(){
                 apps and websites.
               </h1>
               <p className="mb-8 leading-relaxed">
-                Hello, I am Arnab Mitra. I am a Software Developer with 2 years approx. experience in the IT industry. I have developed various apps and websites using various technologies.
+                Hello, I am Arnab Mitra. I am a Software Developer with less than 1 year of experience in the IT industry. I have developed various apps and websites using various technologies.
               </p>
               <div className="flex justify-center">
                 <a
